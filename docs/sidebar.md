@@ -1,5 +1,7 @@
 - [Introduction](/)
 - [Quick Start](quick-start)
+  - [Quick Start](quick-start)
+    - [Quick Start](quick-start)
 - [Themes](themes)
 - [Customization](customization)
 - [Options](options)
